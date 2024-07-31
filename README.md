@@ -1,5 +1,5 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome%20to%0ADoni's%20Github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Doni's%20Github&fontSize=90)
 
 <!--
 **gganj123/gganj123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
