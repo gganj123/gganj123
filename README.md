@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=5abeff&height=300&section=header&text=Doni's%20Github&fontSize=90&fontColor=ffffff" alt="header" />
 </center>
 
+
+
 <h2 align="center">SNS list</h2>
 <div align="center">
   <a href="https://www.instagram.com/revi_kim09">
@@ -27,3 +29,5 @@
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand" />
 </div>
+
+![gganj123's github stats](https://github-readme-stats.vercel.app/api?username=아이디&show_icons=true)
