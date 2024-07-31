@@ -30,4 +30,3 @@
   <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand" />
 </div>
 </center>
-![gganj123's github stats](https://github-readme-stats.vercel.app/api?username=gganj123&show_icons=true)
