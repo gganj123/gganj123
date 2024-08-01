@@ -1,7 +1,6 @@
 <center>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=5abeff&height=300&section=header&text=Doni's%20Github&fontSize=90&fontColor=ffffff" alt="header" />
-<p>안녕하세요<br/>
-암벽하는 개발자 김도현입니다.</p>
+
 <h2 align="center">SNS list</h2>
 <div align="center">
   <a href="https://www.instagram.com/revi_kim09">
